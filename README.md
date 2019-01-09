@@ -1,20 +1,20 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Zaninka Magali](https://github.com/magmerco)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
+- `git clone https://github.com/magmerco/hello-world-1.git`
+- `cd hello-world-1`
 - `atom .`
 
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2019 Moringa School
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
